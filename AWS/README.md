@@ -1,10 +1,10 @@
 # AWS
 
-🛡️ **AWS Cloud Security Projects**
+## 🛡️ AWS Cloud Security Projects
 
 This folder contains security-focused projects designed for Amazon Web Services (AWS). Each subproject demonstrates best practices in cloud security, covering areas such as identity and access management (IAM), resource hardening, logging and monitoring, and automation.
 
-🧠 **Skills Demonstrated**
+## 🧠 Skills Demonstrated
 
 Writing and testing IAM policies
 
@@ -14,7 +14,7 @@ Enabling auditing and continuous monitoring
 
 Using AWS-native security services
 
-🛠 **Tools Used**
+## 🛠 Tools Used
 
 AWS IAM
 
