@@ -23,13 +23,13 @@ Use IAM groups and policies to simplify access management.
 **IAM Users**: IAM users added to the group for scoped access control.
 
 ## 🛠 Tools Used
-AWS IAM
+- AWS IAM
 
-Amazon EC2
+- Amazon EC2
 
-AWS Console
+- AWS Console
 
-JSON IAM Policies
+- JSON IAM Policies
 
 ## 🙏 Acknowledgments
 This project was inspired by a hands-on lab provided by NextWork.
